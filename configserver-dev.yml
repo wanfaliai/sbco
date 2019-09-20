@@ -1,1 +1,2 @@
-configserver.yml
+server:
+  port: 8100
