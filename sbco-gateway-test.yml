@@ -6,4 +6,4 @@ zuul:
     order: 
       path: /order/**
       serviceId: sbco-order
-
+  sensitive-headers: 
