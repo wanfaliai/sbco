@@ -3,3 +3,4 @@ zuul:
     product: 
       path: /product/**
       serviceId: sbco-product
+
