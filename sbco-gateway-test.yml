@@ -5,5 +5,5 @@ zuul:
       serviceId: sbco-product
     order: 
       path: /order/**
-      serviceId: sbco-product
+      serviceId: sbco-order
 
